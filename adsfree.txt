@@ -1,8 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 1.0
+! Version: 1.01
 ! Title: AdsFree
 ! Last modified: 20190520
-! Expires: 99 days
 ! Homepage:
 !
 ##.MobileAppHeader-downloadLink
