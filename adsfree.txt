@@ -1,8 +1,11 @@
-[adsfree]
-! Version: 2019/5/20/17:30
-! Title: adsfree
-! Author: Meng
-! Homepage: http://mengdongs.com:54322/file/Meng.txt
-!
-!-----------------URL------------------!
+[Adsfree 1.0]
+! Version: 201905201320
+! Title: EasyList
+! Last modified: 20 May 2019 13:20 UTC
+! Homepage: https://easylist.to/
+! 
+! Please report any unblocked adverts or problems
+! 
+! -----------------------General advert blocking filters-----------------------!
+! *** easylist:easylist/easylist_general_block.txt ***
 ##.MobileAppHeader-downloadLink.
