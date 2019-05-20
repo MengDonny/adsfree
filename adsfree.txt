@@ -1,11 +1,10 @@
+[adsfree]
 ! Version: 2019/5/20/17:30
 ! Title: adsfree
 ! Author: Meng
 ! Homepage: http://mengdongs.com:54322/file/Meng.txt
 !
 !-----------------URL------------------
-*/.DownloadGuide-blockBg
-*/.DownloadGuide-inner
-*/.DownloadGuide-block--active.DownloadGuide-block.DownloadGuide.Card
-*/.MobileAppHeader-downloadLink
-*/page-pre
+/DownloadGuide
+/MobileAppHeader
+/page-pre
