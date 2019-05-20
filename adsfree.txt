@@ -8,4 +8,4 @@
 ! 
 ! -----------------------General advert blocking filters-----------------------!
 ! *** easylist:easylist/easylist_general_block.txt ***
-##.MobileAppHeader-downloadLink.
+##.MobileAppHeader-downloadLink
