@@ -1,11 +1,8 @@
-[Adsfree 1.0]
-! Version: 201905201320
-! Title: EasyList
-! Last modified: 20 May 2019 13:20 UTC
-! Homepage: https://easylist.to/
-! 
-! Please report any unblocked adverts or problems
-! 
-! -----------------------General advert blocking filters-----------------------!
-! *** easylist:easylist/easylist_general_block.txt ***
+[Adblock Plus 2.0]
+! Version: 1.0
+! Title: AdsFree
+! Last modified: 20190520
+! Expires: 99 days
+! Homepage:
+!
 ##.MobileAppHeader-downloadLink
