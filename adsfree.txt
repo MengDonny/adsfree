@@ -6,3 +6,4 @@
 ! Homepage:
 !
 ##.MobileAppHeader-downloadLink
+##.DownloadGuide-inner
