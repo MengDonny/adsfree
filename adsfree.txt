@@ -5,5 +5,4 @@
 ! Homepage: http://mengdongs.com:54322/file/Meng.txt
 !
 !-----------------URL------------------!
-.DownloadGuide.
-.MobileAppHeader.
+##.MobileAppHeader-downloadLink.
