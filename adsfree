@@ -1,0 +1,12 @@
+[屏蔽 1.0]
+!Version:2018/6/20/17:30
+!Title:屏蔽 1.0
+!Author:Meng
+!Homepage:http://mengdongs.com:54322/file/Meng.txt
+!
+!-----------------URL------------------
+*/.DownloadGuide-blockBg
+*/.DownloadGuide-inner
+*/.DownloadGuide-block--active.DownloadGuide-block.DownloadGuide.Card
+*/.MobileAppHeader-downloadLink
+*/page-pre
